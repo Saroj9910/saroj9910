@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(238, 255, 0);
+    
+}
+#block
+{
+                float:left; 
+                width:20%;
+                height:180px;
+                margin:1px; 
+                display:table;
+                background:lime; 
+                text-align:justify;
+                table-layout: inherit;
+    }
+#middlebox{
+    float:left; 
+    width:300px;
+     height:180px;
+     margin:1px; 
+    display:table;
+    background:lime; 
+     text-align:justify;
+     table-layout: inherit;
+}
+#rightbox{
+  float:left;
+  width:300px;
+  height:180px;
+  margin:1px; 
+  display:table;
+  background:lime; 
+  text-align:justify;
+  table-layout: inherit;
+                
+    
+}
